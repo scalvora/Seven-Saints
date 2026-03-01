@@ -32,8 +32,7 @@ const DESERT_VIDEO_URLS = [
 
 // Ken Burns slideshow images — GUARANTEED to load from Unsplash
 const DESERT_SLIDESHOW_IMAGES = [
-  'https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1920&q=80',
-  'https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?auto=format&fit=crop&w=1920&q=80',
+https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1920&q=80  'https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?auto=format&fit=crop&w=1920&q=80',
   'https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=1920&q=80',
   'https://images.unsplash.com/photo-1451337516015-6b6e9a44a8a3?auto=format&fit=crop&w=1920&q=80',
   'https://images.unsplash.com/photo-1504261521163-3e1c5fa0e654?auto=format&fit=crop&w=1920&q=80',
