@@ -32,6 +32,7 @@ const DESERT_VIDEO_URLS = [
 
 // Ken Burns slideshow images — GUARANTEED to load from Unsplash
 const DESERT_SLIDESHOW_IMAGES = [
+  'https://images.pexels.com/photos/5717775/pexels-photo-5717775.jpeg',
   'https://images.unsplash.com/photo-1451337516015-6b6e9a44a8a3?auto=format&fit=crop&w=1920&q=80',
   'https://images.unsplash.com/photo-1504261521163-3e1c5fa0e654?auto=format&fit=crop&w=1920&q=80',
 ];
